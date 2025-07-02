@@ -1,0 +1,5 @@
+.chatpage{
+    background-image: url(./chatbg.png);
+    height: max-content;
+    background-size: contain;
+}

@@ -1,0 +1,8 @@
+@import "../portfolio/Fonts/WEB/css/satoshi.css";
+
+.site{
+    font-family: 'satoshi-regular';
+    font-size: 45px;
+    line-height: 60px;
+
+}
